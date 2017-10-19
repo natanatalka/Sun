@@ -1,0 +1,12 @@
+{
+  "id": "__BASE__",
+  "name": "Natalia",
+  "screens": [
+    {
+      "id": "Blank",
+      "name": "Blank",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    }
+  ]
+}
